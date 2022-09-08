@@ -9,3 +9,6 @@ add dog3
 add dog4
 add dog5
 add dog6
+
+add cat1
+add cat2
